@@ -1,0 +1,1 @@
+After compilation put FFMPEG binaries to folder where executable resides.
